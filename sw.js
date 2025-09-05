@@ -1,4 +1,4 @@
-const CACHE_NAME = "wiff-cache-v1";
+const CACHE_NAME = "wiff-cache-v2";
 const ASSETS = [
   "/",
   "/index.html",
@@ -8,7 +8,6 @@ const ASSETS = [
   "/js/ui.js",
   "/js/team.js",
   "/js/game.js",
-  "/js/stats.js",
   "/assets/icon-192.svg",
   "/assets/icon-512.svg",
   "/assets/logo.png",
